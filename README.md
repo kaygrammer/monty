@@ -1,2 +1,2 @@
 # monty
-An alx project
+An alx project by Olaoye Kayode
